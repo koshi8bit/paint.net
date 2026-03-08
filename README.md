@@ -1,5 +1,7 @@
 # Плагины Paint.NET
 
+https://www.dotpdn.com/downloads/pdn.html
+
 ## Обводка текста
 
 Нужно скопировать файл 
